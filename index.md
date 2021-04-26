@@ -8,13 +8,11 @@ You can use the [link](https://lihaoming45.github.io/lhm.github.io/) to view the
 **Education**: Master degree
 **Email**: lihao.ming@163.com
 
-
-
 ### Research Interset
-#### 1.current research 
+#### current research 
 Deep learning for medical image analysis (including segmentation,detection,classiﬁcation for both 2D and 3Dimages analysis).
 
-#### 2.Interest
+#### Interest
  Study related to the computer vision,deep learning or artiﬁcial intelligence.
  
 ### Primary Publications
