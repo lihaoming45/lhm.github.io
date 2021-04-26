@@ -5,7 +5,7 @@
       <h1>Haoming Li</h1>
       <p><b>Master Degree</b></p>
       <p><b>Shenzhen University, Biomedical Engineering</b></p>
-      <p><b>邮箱：lihao.ming@163.com</b></p>
+      <p><b>Email：lihao.ming@163.com</b></p>
     </td>
     <td width="25%">
       <img src="/zhengjianzhao.jpg" width="100%">
