@@ -12,7 +12,7 @@ You can use the [link](https://lihaoming45.github.io/lhm.github.io/) to view the
       <p><b>Email：lihao.ming@163.com</b></p>
     </td>
     <td width="25%">
-      <img src="/photo1.jpg" width="100%">      % photo
+      <img src="/photo1.jpg" width="100%"> 
     </td>
   </tr>
 </table>
