@@ -1,7 +1,3 @@
-## Welcome to LHM Pages
-
-You can use the [link](https://lihaoming45.github.io/lhm.github.io/) to view the content of LHM website.
-
 <table border="0">
   <tr>
     <td width="75%">
