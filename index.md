@@ -4,14 +4,13 @@ You can use the [link](https://lihaoming45.github.io/lhm.github.io/) to view the
 
 ### Personal information
 #### Name: Haoming Li
-#### School: SHenzhen University Biomedical engineering
+#### School: Shenzhen University, Biomedical engineering
 #### Education: Master degree
 #### Email: lihao.ming@163.com
 
 
 
-- Bulleted
-- List
+### Personal information
 
 1. Numbered
 2. List
