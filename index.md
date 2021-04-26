@@ -11,9 +11,13 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Personal information
+#### Name: Haoming Li
+#### School: SHenzhen University Biomedical engineering
+#### Education: Master degree.
+#### Email: lihao.ming@163.com
+
+
 
 - Bulleted
 - List
