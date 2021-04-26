@@ -5,23 +5,18 @@ You can use the [link](https://lihaoming45.github.io/lhm.github.io/) to view the
 ### Personal Information
 <table border="0">
   <tr>
-    <td width="75%">
-      <h1>**Name** Haoming Li</h1>
-      <p><b>硕士研究生</b></p>
-      <p><b>××大学××学院</b></p>
-      <p><b>邮箱：1234567789@qq.com</b></p>
-      <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
+    <td width="70%">
+      <h1>Haoming Li</h1>
+      <p><b>Master Degree</b></p>
+      <p><b>Shenzhen University, Biomedical Engineering</b></p>
+      <p><b>Email：lihao.ming@163.com</b></p>
     </td>
     <td width="25%">
-      <img src="/photo1.jpg" width="100%">      % 插入证件照代码
+      <img src="/photo1.jpg" width="100%">      % photo
     </td>
   </tr>
 </table>
 
-**Name**: Haoming Li  
-**School**: Shenzhen University, Biomedical engineering  
-**Education**: Master degree  
-**Email**: lihao.ming@163.com
 
 ### Research Interset
 #### current research 
