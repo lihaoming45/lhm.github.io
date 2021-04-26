@@ -8,7 +8,7 @@
       <p><b>Email：lihao.ming@163.com</b></p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">
+      <img src="/photo1.jpg" width="100%">
     </td>
   </tr>
 </table>
