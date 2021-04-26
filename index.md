@@ -5,7 +5,7 @@ You can use the [link](https://lihaoming45.github.io/lhm.github.io/) to view the
 ### Personal Information
 <table border="0">
   <tr>
-    <td width="70%">
+    <td width="75%">
       <h1>Haoming Li</h1>
       <p><b>Master Degree</b></p>
       <p><b>Shenzhen University, Biomedical Engineering</b></p>
@@ -16,7 +16,6 @@ You can use the [link](https://lihaoming45.github.io/lhm.github.io/) to view the
     </td>
   </tr>
 </table>
-
 
 ### Research Interset
 #### current research 
