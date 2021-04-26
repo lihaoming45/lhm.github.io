@@ -1,12 +1,12 @@
-## Welcome to LHM Pages
+# Welcome to LHM Pages
 
 You can use the [link](https://lihaoming45.github.io/lhm.github.io/) to view the content of LHM website.
 
-### Personal information
-#### Name: Haoming Li
-#### School: Shenzhen University, Biomedical engineering
-#### Education: Master degree
-#### Email: lihao.ming@163.com
+## Personal information
+### Name: Haoming Li
+### School: Shenzhen University, Biomedical engineering
+### Education: Master degree
+### Email: lihao.ming@163.com
 
 
 
