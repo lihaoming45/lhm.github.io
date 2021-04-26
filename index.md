@@ -1,21 +1,12 @@
 ## Welcome to LHM Pages
 
-You can use the [editor on GitHub](https://github.com/lihaoming45/lhm.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+You can use the [link](https://lihaoming45.github.io/lhm.github.io/) to view the content of LHM website.
 
 ### Personal information
-#### Name: Haoming Li
-#### School: SHenzhen University Biomedical engineering
-#### Education: Master degree.
-#### Email: lihao.ming@163.com
+Name: Haoming Li
+School: SHenzhen University Biomedical engineering
+Education: Master degree.
+Email: lihao.ming@163.com
 
 
 
