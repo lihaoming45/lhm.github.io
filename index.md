@@ -1,12 +1,12 @@
-# Welcome to LHM Pages
+## Welcome to LHM Pages
 
 You can use the [link](https://lihaoming45.github.io/lhm.github.io/) to view the content of LHM website.
 
 ### Personal Information
-#### Name: Haoming Li
-#### School: Shenzhen University, Biomedical engineering
-#### Education: Master degree
-#### Email: lihao.ming@163.com
+**Name**: Haoming Li
+**School**: Shenzhen University, Biomedical engineering
+**Education**: Master degree
+**Email**: lihao.ming@163.com
 
 
 
@@ -22,6 +22,7 @@ Deep learning for medical image analysis (including segmentation,detection,class
  * Li H, Fang J, Liu S, Liang X, Yang X, Mai Z, Van MT, Wang T, Chen Z, Ni D. CR-Unet: a composite network for ovary and follicle segmentation in ultrasound images. IEEE journal of biomedical and health informatics. 2019 Oct 7;24(4):974-83. [Link](https://ieeexplore.ieee.org/abstract/document/8861329)
 #### Conference
  * Li H, Yang X, Liang J, Shi W, Chen C, Dou H, Li R, Gao R, Zhou G, Fang J, Liang X. Contrastive Rendering for Ultrasound Image Segmentation. InInternational Conference on Medical Image Computing and Computer-Assisted Intervention 2020 Oct 4 (pp. 563-572). Springer, Cham. [Link](https://link.springer.com/chapter/10.1007/978-3-030-59716-0_54)
+
 ### Other Publications
 * Liang J, Yang X, Li H, Wang Y, Van MT, Dou H, Chen C, Fang J, Liang X, Mai Z, Zhu G. Synthesis and Edition of Ultrasound Images via Sketch Guided Progressive Growing GANS. In2020 IEEE 17th International Symposium on Biomedical Imaging (ISBI) 2020 Apr 3 (pp. 1793-1797). IEEE. [Link](https://arxiv.org/pdf/2004.00226.pdf)
 
