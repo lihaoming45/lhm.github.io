@@ -3,18 +3,14 @@
 You can use the [link](https://lihaoming45.github.io/lhm.github.io/) to view the content of LHM website.
 
 ### Personal Information
-**Name**: Haoming Li
-
-**School**: Shenzhen University, Biomedical engineering
-
-**Education**: Master degree
-
+**Name**: Haoming Li  
+**School**: Shenzhen University, Biomedical engineering  
+**Education**: Master degree  
 **Email**: lihao.ming@163.com
 
 ### Research Interset
 #### current research 
 Deep learning for medical image analysis (including segmentation,detection,classiﬁcation for both 2D and 3Dimages analysis).
-
 #### Interest
  Study related to the computer vision,deep learning or artiﬁcial intelligence.
  
