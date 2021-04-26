@@ -27,3 +27,19 @@ Deep learning for medical image analysis (including segmentation,detection,class
 
  * Yang X, Li H, Liu L, Ni D. Scale-aware Auto-context-guided Fetal US Segmentation with Structured Random Forests. BIO Integration. 2020 Sep 24. [Link](https://www.ingentaconnect.com/content/cscript/bioi/2020/00000001/00000003/art00004)
 
+
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>张三</h1>
+      <p><b>硕士研究生</b></p>
+      <p><b>××大学××学院</b></p>
+      <p><b>邮箱：1234567789@qq.com</b></p>
+      <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
+    </td>
+    <td width="25%">
+      <img src="/photo1.jpg" width="100%">      % 插入证件照代码
+    </td>
+  </tr>
+</table>
+
