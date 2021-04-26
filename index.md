@@ -2,30 +2,29 @@
 
 You can use the [link](https://lihaoming45.github.io/lhm.github.io/) to view the content of LHM website.
 
-## Personal information
-### Name: Haoming Li
-### School: Shenzhen University, Biomedical engineering
-### Education: Master degree
-### Email: lihao.ming@163.com
+### Personal Information
+#### Name: Haoming Li
+#### School: Shenzhen University, Biomedical engineering
+#### Education: Master degree
+#### Email: lihao.ming@163.com
 
 
 
-### Personal information
+### Research Interset
+#### 1.current research 
+Deep learning for medical image analysis (including segmentation,detection,classiﬁcation for both 2D and 3Dimages analysis).
 
-1. Numbered
-2. List
+#### 2.Interest
+ Study related to the computer vision,deep learning or artiﬁcial intelligence.
+ 
+### Primary Publications
+#### Journal Articles 
+ * Li H, Fang J, Liu S, Liang X, Yang X, Mai Z, Van MT, Wang T, Chen Z, Ni D. CR-Unet: a composite network for ovary and follicle segmentation in ultrasound images. IEEE journal of biomedical and health informatics. 2019 Oct 7;24(4):974-83. [Link](https://ieeexplore.ieee.org/abstract/document/8861329)
+#### Conference
+ *Li H, Yang X, Liang J, Shi W, Chen C, Dou H, Li R, Gao R, Zhou G, Fang J, Liang X. Contrastive Rendering for Ultrasound Image Segmentation. InInternational Conference on Medical Image Computing and Computer-Assisted Intervention 2020 Oct 4 (pp. 563-572). Springer, Cham. [Link](https://link.springer.com/chapter/10.1007/978-3-030-59716-0_54)
+### Other Publications
+*Liang J, Yang X, Li H, Wang Y, Van MT, Dou H, Chen C, Fang J, Liang X, Mai Z, Zhu G. Synthesis and Edition of Ultrasound Images via Sketch Guided Progressive Growing GANS. In2020 IEEE 17th International Symposium on Biomedical Imaging (ISBI) 2020 Apr 3 (pp. 1793-1797). IEEE. [Link](https://arxiv.org/pdf/2004.00226.pdf)
+*Liang X, Fang J, Li H, Yang X, Ni D, Zeng F, Chen Z. CR-Unet-Based Ultrasonic Follicle Monitoring to Reduce Diameter Variability and Generate Area Automatically as a Novel Biomarker for Follicular Maturity. Ultrasound in Medicine & Biology. 2020 Nov 1;46(11):3125-34. [Link](https://www.sciencedirect.com/science/article/pii/S0301562920303355)
+*Yang X, Li H, Liu L, Ni D. Scale-aware Auto-context-guided Fetal US Segmentation with Structured Random Forests. BIO Integration. 2020 Sep 24. [Link](https://www.ingentaconnect.com/content/cscript/bioi/2020/00000001/00000003/art00004)
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lihaoming45/lhm.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
