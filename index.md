@@ -17,7 +17,7 @@ Deep learning for medical image analysis (including segmentation,detection,class
 ### Primary Publications
 #### Journal Articles 
  * Li H, Fang J, Liu S, Liang X, Yang X, Mai Z, Van MT, Wang T, Chen Z, Ni D. CR-Unet: a composite network for ovary and follicle segmentation in ultrasound images. IEEE journal of biomedical and health informatics. 2019 Oct 7;24(4):974-83. [Link](https://ieeexplore.ieee.org/abstract/document/8861329)
-#### Conference
+#### Conference 
  * Li H, Yang X, Liang J, Shi W, Chen C, Dou H, Li R, Gao R, Zhou G, Fang J, Liang X. Contrastive Rendering for Ultrasound Image Segmentation. InInternational Conference on Medical Image Computing and Computer-Assisted Intervention 2020 Oct 4 (pp. 563-572). Springer, Cham. [Link](https://link.springer.com/chapter/10.1007/978-3-030-59716-0_54)
 
 ### Other Publications
