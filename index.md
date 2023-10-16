@@ -6,7 +6,8 @@
       <p><b>Organization：</b>State Key Laboratory of Industrial Control Technology, Zhejiang University</p>
       <p><b>Email：</b><a href="haomingli@zju.edu.cn">haomingli@zju.edu.cn</a></p>
       
-      <div  align="left"><p><b>Educationxx：</b></p> </div>
+      <div  align="left">
+      <p><b>Education：</b></p>
       <ul>
         <li>
           <i>Sep. 2021-Mar. 2025</i> Research Doctor at College of Control
@@ -19,6 +20,7 @@
           <i>Sep. 2018-Jun. 2021</i> Bachelor at School of Biomedical Engineering, Shenzhen University
         </li>
       </ul>
+      </div>
 
 
     </td>
