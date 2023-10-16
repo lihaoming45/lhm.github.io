@@ -1,8 +1,9 @@
-<div align="left">
+<div>
 <table border="0">
   <tr>
     <td width="85%">
       <h1>Haoming Li</h1>
+      <hr />
       <p><b>Organization：</b>State Key Laboratory of Industrial Control Technology, Zhejiang University</p>
       <p><b>Email：</b><a href="haomingli@zju.edu.cn">haomingli@zju.edu.cn</a></p>
       
