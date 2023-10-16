@@ -5,7 +5,7 @@
       <h1>Haoming Li</h1>
       <p><b>Master Degree</b></p>
       <p><b>State Key Laboratory of Industrial Control Technology, Zhejiang University</b></p>
-      <p><b>**Email**：haomingli@zju.edu.cn</b></p>
+      <p><b>Email：</b>haomingli@zju.edu.cn</p>
       
     </td>
     <td width="25%">
