@@ -1,4 +1,4 @@
-<div align="left">
+<div>
 <table border="0">
   <tr>
     <td width="85%">
@@ -6,7 +6,7 @@
       <p><b>Organization：</b>State Key Laboratory of Industrial Control Technology, Zhejiang University</p>
       <p><b>Email：</b><a href="haomingli@zju.edu.cn">haomingli@zju.edu.cn</a></p>
       
-      <p><b>Education：</b></p>
+      <div  align="left"><p><b>Educationxx：</b></p> </div>
       <ul>
         <li>
           <i>Sep. 2021-Mar. 2025</i> Research Doctor at College of Control
