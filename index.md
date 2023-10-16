@@ -1,4 +1,4 @@
-<div>
+<div align="left">
 <table border="0">
   <tr>
     <td width="85%">
@@ -15,8 +15,7 @@
           <a href="https://person.zju.edu.cn/en/jmchen">Jiming Chen</a>
         </li>
         <li>
-          <i>Sep. 2018-Jun. 2021</i> Bachelor at School of Biomedical Engineering, 
-          Shenzhen University
+          <i>Sep. 2018-Jun. 2021</i> Bachelor at School of Biomedical Engineering, Shenzhen University
         </li>
       </ul>
 
