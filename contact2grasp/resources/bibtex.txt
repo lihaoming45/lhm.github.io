@@ -1,1 +1,6 @@
-
+@article{li2022contact2grasp,
+  title={Contact2Grasp: 3D Grasp Synthesis via Hand-Object Contact Constraint},
+  author={Li, Haoming and Lin, Xinzhuo and Zhou, Yang and Li, Xiang and Huo, Yuchi and Chen, Jiming and Ye, Qi},
+  journal={arXiv preprint arXiv:2210.09245},
+  year={2022}
+}
