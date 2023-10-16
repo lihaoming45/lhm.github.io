@@ -17,7 +17,6 @@
             <i>Sep. 2018-Jun. 2021</i> Bachelor at School of Biomedical Engineering, 
             Shenzhen University
           </li>
-        </li>
       </ul>
 
 
