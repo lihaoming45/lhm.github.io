@@ -5,6 +5,7 @@
       <h1>Haoming Li</h1>
       <p><b>Organization：</b>State Key Laboratory of Industrial Control Technology, Zhejiang University</p>
       <p><b>Email：</b><a href="haomingli@zju.edu.cn">haomingli@zju.edu.cn</a></p>
+      
       <p><b>Education：</b></p>
       <ul>
         <li>
@@ -14,10 +15,10 @@
           <a href="https://person.zju.edu.cn/en/jmchen">Jiming Chen</a>
         </li>
         <li>
-          <i>Sep. 2018-Jun. 2021</i> Bachelor at School of Biomedical Engineering, Shenzhen University
+          <i>Sep. 2018-Jun. 2021</i> Bachelor at School of Biomedical Engineering, 
+          Shenzhen University
         </li>
       </ul>
-
 
     </td>
     <td width="25%">
