@@ -7,19 +7,6 @@
       <p><b>Organization：</b>State Key Laboratory of Industrial Control Technology, Zhejiang University</p>
       <p><b>Email：</b><a href="haomingli@zju.edu.cn">haomingli@zju.edu.cn</a></p>
       
-      <p><b>Education：</b></p>
-      <ul>
-        <li>
-          <i>Sep. 2021-Mar. 2025</i> Research Doctor at College of Control
-          Science and Engineering, Zhejiang University, research with Dr.
-          <a href="https://person.zju.edu.cn/en/yeqi">Qi Ye</a> and Prof.
-          <a href="https://person.zju.edu.cn/en/jmchen">Jiming Chen</a>
-        </li>
-        
-        <li>
-          <i>Sep. 2018-Jun. 2021</i> Bachelor at School of Biomedical Engineering, Shenzhen University
-        </li>
-      </ul>
 
     </td>
     <td width="25%">
@@ -28,6 +15,11 @@
   </tr>
 </table>
 </div>
+
+### Education
+* **Sep. 2021-Mar. 2025.** Research Doctor at College of ControlScience and Engineering, Zhejiang University, research with Dr.[Qi Ye](https://person.zju.edu.cn/en/yeqi) and Prof. [Jiming Chen](https://person.zju.edu.cn/en/jmchen)
+
+* **Sep. 2018-Jun. 2021.** Bachelor at School of Biomedical Engineering, Shenzhen University.
 
 ### Research Interest
 #### Previous Research 
