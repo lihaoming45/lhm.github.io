@@ -3,9 +3,8 @@
   <tr>
     <td width="75%">
       <h1>Haoming Li</h1>
-      <p><b>Master Degree</b></p>
-      <p><b>State Key Laboratory of Industrial Control Technology, Zhejiang University</b></p>
-      <p><b>Email：</b>haomingli@zju.edu.cn</p>
+      <p><b>Organization：</b>State Key Laboratory of Industrial Control Technology, Zhejiang University</p>
+      <p><b>Email：</b><a href="haomingli@zju.edu.cn">haomingli@zju.edu.cn</a></p>
       
     </td>
     <td width="25%">
@@ -17,7 +16,7 @@
 
 ### Research Interest
 #### Previous Research 
-Deep learning for medical image analysis (including segmentation, detection, and classiﬁcation for both 2D and 3Dimages analysis).
+Deep learning for medical image analysis (including segmentation, detection, and classiﬁcation for both 2D and 3D image analysis).
 
 #### Current Research 
 Computer vision for dextrous hand grasp generation.
