@@ -13,10 +13,9 @@
           <a href="https://person.zju.edu.cn/en/yeqi">Qi Ye</a> and Prof.
           <a href="https://person.zju.edu.cn/en/jmchen">Jiming Chen</a>
         </li>
-          <li>
-            <i>Sep. 2018-Jun. 2021</i> Bachelor at School of Biomedical Engineering, 
-            Shenzhen University
-          </li>
+        <li>
+          <i>Sep. 2018-Jun. 2021</i> Bachelor at School of Biomedical Engineering, Shenzhen University
+        </li>
       </ul>
 
 
