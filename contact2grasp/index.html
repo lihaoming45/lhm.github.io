@@ -90,7 +90,7 @@
 <div class="container">
   <h1>Abstract</h1>
     <p align="justify">
-      Millimeter Wave (mmWave) Radar is gaining popularity as it can work in adverse environments like smoke, rain, snow, poor lighting, etc. Prior work has explored the possibility of reconstructing 3D skeletons or meshes from the noisy and sparse mmWave Radar signals. However, it is unclear how accurately we can reconstruct the 3D body from the mmWave signals across scenes and how it performs compared with cameras, which are important aspects needed to be considered when either using mmWave radars alone or combining them with cameras. To answer these questions, an automatic 3D body annotation system is first designed and built up with multiple sensors to collect a large-scale dataset. The dataset consists of synchronized and calibrated mmWave radar point clouds and RGB(D) images in different scenes and skeleton/mesh annotations for humans in the scenes. With this dataset, we train state-of-the-art methods with inputs from different sensors and test them in various scenarios. The results demonstrate that 1) despite the noise and sparsity of the generated point clouds, the mmWave radar can achieve better reconstruction accuracy than the RGB camera but worse than the depth camera; 2) the reconstruction from the mmWave radar is affected by adverse weather conditions moderately while the RGB(D) camera is severely affected. Further, analysis of the dataset and the results shadow insights on improving the reconstruction from the mmWave radar and the combination of signals from different sensors.
+      3D grasp synthesis generates grasping poses given an input object. Existing works tackle the problem by learning a direct mapping from objects to the distributions of grasping poses. However, because the physical contact is sensitive to small changes in pose, the high-nonlinear mapping between 3D object representation to valid poses is considerably non-smooth, leading to poor generation efficiency and restricted generality. To tackle the challenge, we introduce an intermediate variable for grasp contact areas to constrain the grasp generation; in other words, we factorize the mapping into two sequential stages by assuming that grasping poses are fully constrained given contact maps: 1) we first learn contact map distributions to generate the potential contact maps for grasps; 2) then learn a mapping from the contact maps to the grasping poses. Further, we propose a penetration-aware optimization with the generated contacts as a consistency constraint for grasp refinement. Extensive validations on two public datasets show that our method outperforms state-of-the-art methods regarding grasp generation on various metrics.
     </p> 
 </div>   
 
@@ -98,7 +98,7 @@
 
 <div class="container">
   <h1>Video</h1>
-    <iframe width="711" height="400" src="https://www.youtube.com/embed/xyEdi7gTMgo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="711" height="400" src="https://www.youtube.com/embed/xyEdi7gTMgo" title="B video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>   
 
 </br>
