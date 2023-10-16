@@ -4,8 +4,9 @@
     <td width="75%">
       <h1>Haoming Li</h1>
       <p><b>Master Degree</b></p>
-      <p><b>Shenzhen University, Biomedical Engineering</b></p>
-      <p><b>Email：lihao.ming@163.com</b></p>
+      <p><b>State Key Laboratory of Industrial Control Technology, Zhejiang University</b></p>
+      <p><b>**Email**：haomingli@zju.edu.cn</b></p>
+      
     </td>
     <td width="25%">
       <img src="/photo1.jpg" width="100%">
@@ -14,14 +15,14 @@
 </table>
 </div>
 
-### Research Interset
+### Research Interest
 #### Previous Research 
-Deep learning for medical image analysis (including segmentation,detection,classiﬁcation for both 2D and 3Dimages analysis).
+Deep learning for medical image analysis (including segmentation, detection, and classiﬁcation for both 2D and 3Dimages analysis).
 
-#### Previous Research 
-Computer vision for human hand grasp generation.
+#### Current Research 
+Computer vision for dextrous hand grasp generation.
 #### Interest
- Study related to the computer vision,deep learning or artiﬁcial intelligence.
+ Study related to computer vision, deep learning, or artiﬁcial intelligence.
  
 ### Primary Publications
 #### Conferences
