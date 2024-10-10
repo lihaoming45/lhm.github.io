@@ -19,7 +19,8 @@
 ### Education
 * **Sep. 2021-Mar. 2025.** Research Doctor at College of ControlScience and Engineering, Zhejiang University, research with Dr.[Qi Ye](https://person.zju.edu.cn/en/yeqi) and Prof. [Jiming Chen](https://person.zju.edu.cn/en/jmchen)
 
-* **Sep. 2018-Jun. 2021.** Bachelor at School of Biomedical Engineering, Shenzhen University.
+* **Sep. 2018-Jun. 2021.** Master at School of Biomedical Engineering, Shenzhen University.
+* **Sep. 2014-Jun. 2018.** Bachelor at School of Biomedical Engineering, Shenzhen University.
 
 ### Research Interest
 #### Previous Research 
