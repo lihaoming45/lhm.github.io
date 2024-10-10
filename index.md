@@ -26,24 +26,25 @@
 Deep learning for medical image analysis (including segmentation, detection, and classiﬁcation for both 2D and 3D image analysis).
 
 #### Current Research 
-Computer vision for dextrous hand grasp generation.
+Computer vision for dextrous hand grasp generation and motion planning.
 #### Interest
  Study related to computer vision, deep learning, or artiﬁcial intelligence.
  
 ### Primary Publications
 #### Conferences
- * Li H, Yang X, Liang J, Shi W, Chen C, Dou H, Li R, Gao R, Zhou G, Fang J, Liang X. Contrastive Rendering for Ultrasound Image Segmentation. International Conference on Medical Image Computing and Computer-Assisted Intervention 2020 Oct 4 (pp. 563-572). Springer, Cham. [Link](https://link.springer.com/chapter/10.1007/978-3-030-59716-0_54).
+ * Li H, Yang X, Liang J, Shi W, Chen C, Dou H, Li R, Gao R, Zhou G, Fang J, Liang X. Contrastive Rendering for Ultrasound Image Segmentation. International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI) 2020 Oct 4 (pp. 563-572). Springer, Cham. [Link](https://link.springer.com/chapter/10.1007/978-3-030-59716-0_54).
+ * Li H, Yang X, Liang J, Shi W, Chen C, Dou H, Li R, Gao R, Zhou G, Fang J, Liang X. Contrastive Rendering for Ultrasound Image Segmentation. International Conference on Medical Image Computing and Computer-Assisted Intervention(MICCAI) 2020 Oct 4 (pp. 563-572). Springer, Cham. [Link](https://link.springer.com/chapter/10.1007/978-3-030-59716-0_54).
 
- * Qin C, Li H, Liu Y, et al. 3D Brain Midline Delineation for Hematoma Patients[C]//International Conference on Medical Image Computing and Computer-Assisted Intervention. Springer, Cham, 2021: 510-518. [Link](https://link.springer.com/chapter/10.1007/978-3-030-87240-3_49)
-   
+ * Qin C*, Li H*, Liu Y, Shang H, Pei H, Wang X, Chen Y, Chang J, Feng M, Wang R, Yao J. (2021). 3D brain midline delineation for hematoma patients.International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI) 2021: Oct 1 (pp. 510-518). Springer International Publishing.[Link](https://link.springer.com/chapter/10.1007/978-3-030-87240-3_49)
+
  * Li H, Lin X, Zhou Y, Li X, Huo Y, Chen J, & Ye Q. Contact2Grasp: 3D Grasp Synthesis via Hand-Object Contact Constraint.International Joint Conference on Artificial Intelligence (IJCAI). 2023; arXiv preprint arXiv:2210.09245. [Link](https://www.ijcai.org/proceedings/2023/0117.pdf)
 
  * Li, H., Ye, Q., Huo, Y., Liu, Q., Jiang, S., Zhou, T., ... & Chen, J. (2024, May). TPGP: Temporal-Parametric Optimization with Deep Grasp Prior for Dexterous Motion Planning. In 2024 IEEE International Conference on Robotics and Automation (ICRA) (pp. 18106-18112). IEEE.[Link](https://ieeexplore.ieee.org/abstract/document/10610408/)
 
 #### Journal Articles
- * Li H, Fang J, Liu S, Liang X, Yang X, Mai Z, Van MT, Wang T, Chen Z, Ni D. CR-Unet: a composite network for ovary and follicle segmentation in ultrasound images. IEEE journal of biomedical and health informatics. 2019 Oct 7;24(4):974-83. [Link](https://ieeexplore.ieee.org/abstract/document/8861329)
+ * Li H, Fang J, Liu S, Liang X, Yang X, Mai Z, Van MT, Wang T, Chen Z, Ni D. CR-Unet: a composite network for ovary and follicle segmentation in ultrasound images. IEEE journal of biomedical and health informatics (JBHI). 2019 Oct 7;24(4):974-83. [Link](https://ieeexplore.ieee.org/abstract/document/8861329)
 
- * Yang, X., Li, H., Wang, Y., Liang, X., Chen, C., Zhou, X., ... & Ni, D. (2021). Contrastive Rendering with Semi-supervised Learning for Ovary and Follicle Segmentation from 3D Ultrasound. Medical Image Analysis, 102134. [Link](https://www.sciencedirect.com/science/article/abs/pii/S1361841521001808)
+ * Yang, X., Li, H., Wang, Y., Liang, X., Chen, C., Zhou, X., ... & Ni, D. (2021). Contrastive Rendering with Semi-supervised Learning for Ovary and Follicle Segmentation from 3D Ultrasound. Medical Image Analysis(MIA), 102134. [Link](https://www.sciencedirect.com/science/article/abs/pii/S1361841521001808)
 
 ### Other Publications
  * Liang J, Yang X, Li H, Wang Y, Van MT, Dou H, Chen C, Fang J, Liang X, Mai Z, Zhu G. Synthesis and Edition of Ultrasound Images via Sketch Guided Progressive Growing GANS. In2020 IEEE 17th International Symposium on Biomedical Imaging (ISBI) 2020 Apr 3 (pp. 1793-1797). IEEE. [Link](https://arxiv.org/pdf/2004.00226.pdf).
