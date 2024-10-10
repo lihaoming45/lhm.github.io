@@ -33,9 +33,8 @@ Computer vision for dextrous hand grasp generation and motion planning.
 ### Primary Publications
 #### Conferences
  * Li H, Yang X, Liang J, Shi W, Chen C, Dou H, Li R, Gao R, Zhou G, Fang J, Liang X. Contrastive Rendering for Ultrasound Image Segmentation. International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI) 2020 Oct 4 (pp. 563-572). Springer, Cham. [Link](https://link.springer.com/chapter/10.1007/978-3-030-59716-0_54).
- * Li H, Yang X, Liang J, Shi W, Chen C, Dou H, Li R, Gao R, Zhou G, Fang J, Liang X. Contrastive Rendering for Ultrasound Image Segmentation. International Conference on Medical Image Computing and Computer-Assisted Intervention(MICCAI) 2020 Oct 4 (pp. 563-572). Springer, Cham. [Link](https://link.springer.com/chapter/10.1007/978-3-030-59716-0_54).
 
- * Qin C*, Li H*, Liu Y, Shang H, Pei H, Wang X, Chen Y, Chang J, Feng M, Wang R, Yao J. (2021). 3D brain midline delineation for hematoma patients.International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI) 2021: Oct 1 (pp. 510-518). Springer International Publishing.[Link](https://link.springer.com/chapter/10.1007/978-3-030-87240-3_49)
+ * Qin C*, Li H*, Liu Y, Shang H, Pei H, Wang X, Chen Y, Chang J, Feng M, Wang R, Yao J. 3D brain midline delineation for hematoma patients.International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI) 2021 Oct 1 (pp. 510-518). Springer International Publishing.[Link](https://link.springer.com/chapter/10.1007/978-3-030-87240-3_49)
 
  * Li H, Lin X, Zhou Y, Li X, Huo Y, Chen J, & Ye Q. Contact2Grasp: 3D Grasp Synthesis via Hand-Object Contact Constraint.International Joint Conference on Artificial Intelligence (IJCAI). 2023; arXiv preprint arXiv:2210.09245. [Link](https://www.ijcai.org/proceedings/2023/0117.pdf)
 
