@@ -18,7 +18,6 @@
 
 ### Education
 * **Sep. 2021-Mar. 2025.** Research Doctor at College of ControlScience and Engineering, Zhejiang University, research with Dr.[Qi Ye](https://person.zju.edu.cn/en/yeqi) and Prof. [Jiming Chen](https://person.zju.edu.cn/en/jmchen)
-
 * **Sep. 2018-Jun. 2021.** Master at School of Biomedical Engineering, Shenzhen University.
 * **Sep. 2014-Jun. 2018.** Bachelor at School of Biomedical Engineering, Shenzhen University.
 
@@ -38,6 +37,8 @@ Computer vision for dextrous hand grasp generation.
  * Qin C, Li H, Liu Y, et al. 3D Brain Midline Delineation for Hematoma Patients[C]//International Conference on Medical Image Computing and Computer-Assisted Intervention. Springer, Cham, 2021: 510-518. [Link](https://link.springer.com/chapter/10.1007/978-3-030-87240-3_49)
    
  * Li H, Lin X, Zhou Y, Li X, Huo Y, Chen J, & Ye Q. Contact2Grasp: 3D Grasp Synthesis via Hand-Object Contact Constraint.International Joint Conference on Artificial Intelligence (IJCAI). 2023; arXiv preprint arXiv:2210.09245. [Link](https://www.ijcai.org/proceedings/2023/0117.pdf)
+
+ * Li, H., Ye, Q., Huo, Y., Liu, Q., Jiang, S., Zhou, T., ... & Chen, J. (2024, May). TPGP: Temporal-Parametric Optimization with Deep Grasp Prior for Dexterous Motion Planning. In 2024 IEEE International Conference on Robotics and Automation (ICRA) (pp. 18106-18112). IEEE.[Link](https://ieeexplore.ieee.org/abstract/document/10610408/)
 
 #### Journal Articles
  * Li H, Fang J, Liu S, Liang X, Yang X, Mai Z, Van MT, Wang T, Chen Z, Ni D. CR-Unet: a composite network for ovary and follicle segmentation in ultrasound images. IEEE journal of biomedical and health informatics. 2019 Oct 7;24(4):974-83. [Link](https://ieeexplore.ieee.org/abstract/document/8861329)
