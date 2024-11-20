@@ -1,10 +1,124 @@
-<!DOCTYPE html>
 <html>
 <head>
-    <title>My Website</title>
+  <title>TPNP: Generating Dexterous Grasping Motion with Contact Latent Diffusion and Temporal Parametric Neural Pose Optimization</title>
+  <link rel="stylesheet" type="text/css" href="css/style.css">
+  <script src="https://unpkg.com/@google/model-viewer/dist/model-viewer.js" type="module"></script>
 </head>
-<body>
-    <h1>Welcome to My Website!</h1>
-    <p>This is a simple HTML page hosted on GitHub Pages.</p>
+
+<body> 
+
+<div class="container">
+  <h1><span style="font-size:42px">TPNP: Generating Dexterous Grasping Motion with Contact Latent Diffusion and Temporal Parametric Neural Pose Optimization</span></h1>
+  <br>
+  <table width="1000px" align="center">
+    <tr>
+      <td align=center width=160px>
+        <center>
+          <span style="font-size:24px"><a href=" https://lihaoming45.github.io/">Haoming Li*</a></span>
+        </center>
+      </td>
+      <td align=center width=170px>
+        <center>
+          <span style="font-size:24px"><a href="">Qi Ye*</a></span>
+        </center>
+      </td>
+      <td align=center width=160px>
+        <center>
+          <span style="font-size:24px"><a href="">Yuchi Huo</a></span>
+        </center>
+      </td>
+      <td align=center width=160px>
+        <center>
+        <span style="font-size:24px"><a href="">Tao Zhou</a></span>
+        </center>
+      </td>
+      <td align=center width=160px>
+        <center>
+          <span style="font-size:24px"><a href="">Qingtao Liu</a></span>
+        </center>
+      </td>
+      <td align=center width=160px>
+        <center>
+          <span style="font-size:24px"><a href="">Shijiang Jiang</a></span>
+        </center>
+      </td>
+      <td align=center width=160px>
+        <center>
+        <span style="font-size:24px"><a href="https://person.zju.edu.cn/jmchen">Jiming Chen</a></span>
+        </center>
+  </table>
+  <br>
+  <table>
+    <tr>
+      <span style="font-size: 22px">Zhejiang University</span>
+    </tr>
+    <br><br>
+  </table>
+  <br>
+  <table width="500px" align="center">
+    <tr>
+      <td align=center width=100px>
+        <center>
+          <span style="font-size:24px"><a href="">[Paper]</a></span>
+        </center>
+      </td>
+      <td align=center width=100px>
+        <center>
+          <span style="font-size:24px"><a href="https://github.com/lihaoming45/TPNP">[Dataset]</a></span>
+        </center>
+      </td>
+  </table>
+  <p>
+    <div class="row">
+      <img src="resources/teaser.jpg" style="width:80%; padding-top:35px;">
+    </div>
+  </p>
+</div>
+
+</br>
+
+<div class="container">
+  <h1>Abstract</h1>
+    <p align="justify">
+      Dexterous grasping faces challenges of high degrees of freedom (DOFs) and complex grasping contacts. In this paper, we propose a novel solution with two-stage pipeline of grasp pose synthesis and motion planning which leverages contact, temporal and grasp pose priors to address the challenges. In the first stage, a novel two-step factorization with intermediate contact maps is proposed to address the high non-linearity mapping of objects to poses. Also, a novel latent-diffusion-based contact map generative method is designed to avoid the learning difficulty in the high-dimensional object point cloud space. In the second stage, a novel trajectory optimization method incorporating the temporal and joint synergy is proposed: 1) a novel temporal parametric mapping function is proposed to map the pose parameters at trajectory steps to variables controlling the joint moving tempo; 2) a differentiable neural poser is proposed that employs a neural network to learn grasp pose prior by encoding the hand poses into a low-embedding latent space. Optimization with temporal parametric mapping and in the latent space via the differential neural poser reduces the number of parameters from thousands to dozens and help to avoid the uncanny poses during the motion planning.  Lastly, with the guidance of generated contact maps, penetration-aware optimization is proposed for local pose refinement, and a joint optimization strategy is proposed to mitigate the sub-optimal issue incurred by the multi-stage pipeline.  Extensive experiments on three datasets demonstrate a significant improvement over existing methods. A large-scale 4D grasp motion dataset is built with our method.
+    </p> 
+</div>   
+
+</br>
+
+
+</br>
+
+</br>
+
+<div class="container">
+  <h1> BibTeX</h1>
+  <table align=center width=1000px height=200px>
+  <tr>
+      Note that This work can be considered a significant extension of our conference paper, Contact2Grasp: 3D grasp synthesis via hand-object contact constraint, published in the Thirty-Second International Joint Conference on Artificial Intelligence (IJCAI '23)
+  </tr>
+
+  <tr>
+    <!-- <td align=left width=300px><a href=""><img class="layered-paper-big" style="height:180px" src="./resources/paper_preview.png"/></a></td> -->
+    <td align=left width=1000px style="color: #4d4b59; font-size:12pt">
+<pre>@inproceedings{chen2022mmbody,
+&nbsp; title={Contact2grasp: 3d grasp synthesis via hand-object contact constraint},
+&nbsp; author={Li, Haoming and Lin, Xinzhuo and Zhou, Yang and Li, Xiang and Huo, Yuchi and Chen, Jiming and Ye, Qi},
+&nbsp; booktitle={Proceedings of the Thirty-Second International Joint Conference on Artificial Intelligence},
+&nbsp; pages={1053--1061},
+&nbsp; year={2023}
+}</pre>
+    </td>
+  </tr>
+  </table>
+</div>
+
+</br>
+
+<div class="containersmall">
+  <p>Contact: <a href="mailto:haomingli@zju.edu.cn">Haoming Li</a>, <a href="mailto:qi.ye@zju.edu.cn">Qi Ye</a></p>
+  <!-- <p>Page template borrowed from <a href="https://gkioxari.github.io/usl/index.html">gkioxari</a></p> -->
+</div>
+ 
 </body>
 </html>
