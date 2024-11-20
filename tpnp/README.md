@@ -4,4 +4,4 @@ A project page for our Public Dataset "TPNP: Generating Dexterous Grasping Motio
 
 # Copyright
 
-Modified from [https://chen3110.github.io/mmbody/index.html]([https://gkioxari.github.io/usl/index.html](https://chen3110.github.io/mmbody/index.html))
+Modified from [chen3110.github.io/mmbody/index.html](https://chen3110.github.io/mmbody/index.html)
