@@ -27,6 +27,13 @@
             margin: 0 auto;
 
         }
+        .gif-container {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 10px;
+            max-width: 800px;
+            margin: 0 auto;
+        }
         .video-container video {
             width: 100%;
             height: auto;
@@ -142,7 +149,7 @@
     <section id="html-visualization">
         <h2>HTML-Based Visualization</h2>
         <p>Interactive HTML visualizations allow users to explore simulated grasping processes directly in the browser, including mano hand (top row) and shadow hand (bottom row).</p>
-        <div class="video-container">
+        <div class="gif-container">
             <img src="./rscs/html/mano_grasp_demo.gif" alt="Human Hand grasping">
             <img src="./rscs/html/shadow_grasp_demo.gif" alt="Shadow Hand Grasping">
         </div>
